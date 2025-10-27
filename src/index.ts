@@ -7,6 +7,7 @@ let isMarried: any; //bisa diisi dengan tipe data apa saja
 let namaKucing: string | number; //bisa di isi dengan string atau number
 namaKucing = "Kitty";
 namaKucing = 5;
+let bilanganPrimaBawah10: 2 | 3 | 5 | 7; //hanya bisa di isi dengan angka 2, 3, 5, atau 7
 
 //array 
 let saudaraSaya: string[] = ["Jane", "Doe"]; //di isi hanya dengan string
